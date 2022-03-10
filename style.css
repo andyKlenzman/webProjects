@@ -1,0 +1,29 @@
+
+h1{
+  color: white;
+}
+body{
+  background: rgb(0, 0, 0);
+  /* background: radial-gradient(circle, rgba(46,79,144,1) 0%, rgba(218,166,112,1) 61%, rgba(203,75,103,1) 100%); */
+}
+
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+h1{
+  align-items: center;
+  padding-top: 230px;
+  font-size: 7rem;
+
+}
+
+
+
+.container{
+  width: 100%;
+  text-align: center;
+  position: absolute;
+}
